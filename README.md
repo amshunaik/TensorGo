@@ -5,6 +5,7 @@
 4. In this repository 2 main file are App.js and node1.js ( App.js in aim folder , node1.js in aim/src/store folder)
 5. In this repository 2 main file are App.js and node1.js ( App.js in aim folder , node1.js in aim/src/store folder)  
 6. For Google OAuth access :
+   
    -  log in Google cloud application
    -  Go to API and services page
    -  Click Google Auth and start a new project and create new project
@@ -15,7 +16,7 @@
    -  Save the changes you made.
    -  Go to OAuth Consent Screen and start the production.
 
-7.  Airtable Authentication 
+8. Airtable Authentication :
    -  Login to Airtable application
    -  Create a new Base
    -  In it create a table named "Table 2"
